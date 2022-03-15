@@ -9,7 +9,7 @@
     "axios": "^0.19.2",
     "axios-retry": "^3.1.2",
     "chart.js": "^2.9.3",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "moment-timezone": "^0.5.28",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
